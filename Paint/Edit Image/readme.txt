@@ -1,0 +1,1 @@
+do odpalenia potrzebny wxwidgets
